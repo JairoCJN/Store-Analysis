@@ -1,2 +1,2 @@
 # Store-Analysis
-Store Analysis
+Store Analysis.
